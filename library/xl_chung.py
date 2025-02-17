@@ -1,0 +1,1 @@
+duong_dan_cd = 'Data/ql_cd.db'
